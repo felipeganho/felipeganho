@@ -17,6 +17,8 @@
   <a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   
 </p>
+  
+ <a href="https://www.linkedin.com/in/felipeganho/"><img src="https://img.shields.io/badge/Linkedin-informational?logo=linkedin"/></a>
 
 <!--
 **felipeganho/felipeganho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
