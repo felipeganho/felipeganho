@@ -4,8 +4,8 @@
 
 
 
-
-- 🔭 At moment I am studying Computer Engineering at UFES. 
+- 🔭 I’m currently working on @InnovationLatam as Web Full Stack Developer.
+- 🌱 At moment I am studying Computer Engineering at UFES. 
 - 🌱 I’m currently learning React JS, Node JS, Laravel and React Native.
 
 
