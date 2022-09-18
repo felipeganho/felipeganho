@@ -18,6 +18,7 @@
   
 </p>
   
+ <h3 align="left">Connect with me:</h3> 
  <a href="https://www.linkedin.com/in/felipeganho/"><img src="https://img.shields.io/badge/Linkedin-informational?logo=linkedin"/></a>
 
 <!--
