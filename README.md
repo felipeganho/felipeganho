@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on @InnovationLatam as Web Full Stack Developer.
 - 🌱 At moment I am studying Computer Engineering at UFES. 
-- 🌱 I’m currently learning React JS, Node JS, Laravel and React Native.
+- 🌱 I’m currently learning React JS e Vue JS for front-end, Node JS e Laravel for back-end and React Native for mobile applications.
 
 
 <h3 align="left">Languages and Tools:</h3>
