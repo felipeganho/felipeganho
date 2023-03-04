@@ -1,4 +1,7 @@
-# Hi guys 👋  I'm Felipe Ganho
+<h1 align="center"><b>Hi, I'm Felipe Ganho</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=I'm+computer+engineer;Developer;Tech+Enthusiast"></a>
+</p>
 
 - 🔭 I’m currently working on Clube do Valor as Full Stack Developer.
 - 🌱 At moment I am studying Computer Engineering at UFES. 
