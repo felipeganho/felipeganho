@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on Clube do Valor as Full Stack Developer.
 - 🌱 At moment I am studying Computer Engineering at UFES. 
 - 🌱 I’m currently learning React JS e Vue JS for front-end, Node JS e Laravel for back-end and React Native for mobile applications.
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1E53uVHdLzOBxF7vihXZIJPCLi88Lnsph/view" target="blank">Resume</a>
 
 <br>
 
