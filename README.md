@@ -30,6 +30,10 @@
  ## <b>Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
  <a href="https://www.linkedin.com/in/felipeganho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="mailto:felipeganho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ 
+ <p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Do%20your%20best,%20in%20the%20condition%20you%20have,%20while%20you%20don%27t%20have%20better%20conditions,%20to%20do%20even%20better!&author=M%C3%A1rio%20Sergio%20Cortella">
+</p>
 
 <!--
 Here are some ideas to get you started:
