@@ -23,7 +23,8 @@
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>	
+  <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 </div>
 
 <h3 align="left">Tools</h3>
