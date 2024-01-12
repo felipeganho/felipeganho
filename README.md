@@ -7,9 +7,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🔭 I’m currently working at Clube do Valor as Full Stack Developer;
-- 🌱 I'm computer engineer by Ufes;
-- 🌱 I’m currently learning React and Vue for front-end, Node and Laravel for back-end and React Native for mobile applications;
+- :computer: I’m currently working at Clube do Valor as Full Stack Developer;
+- :mortar_board: I'm computer engineer by Ufes;
+- :books: I’m currently learning React and Vue for front-end, Node and Laravel for back-end and React Native for mobile applications;
 - 📄 Know about my <a href="https://drive.google.com/file/d/1E53uVHdLzOBxF7vihXZIJPCLi88Lnsph/view" target="blank">experiences/resume;</a>
 - Visit my <a href="https://felipeganho.github.io/" target="blank">personal portfolio.</a>
 
