@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Felipe Ganho</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Felipe Silva Ganho</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=I'm+computer+engineer;Developer;Tech+Enthusiast"></a>
 </p>
@@ -7,8 +7,8 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🔭 I’m currently working on Clube do Valor as Full Stack Developer;
-- 🌱 At moment I am studying Computer Engineering at UFES;
+- 🔭 I’m currently working at Clube do Valor as Full Stack Developer;
+- 🌱 I'm computer engineer by Ufes;
 - 🌱 I’m currently learning React and Vue for front-end, Node and Laravel for back-end and React Native for mobile applications;
 - 📄 Know about my <a href="https://drive.google.com/file/d/1E53uVHdLzOBxF7vihXZIJPCLi88Lnsph/view" target="blank">experiences/resume;</a>
 - Visit my <a href="https://felipeganho.github.io/" target="blank">personal portfolio.</a>
