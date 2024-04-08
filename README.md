@@ -18,7 +18,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <h3 align="left">Languages and Frameworks</h3>
 <div>
-  <a href="https://laravel.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://laravel.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="bootstrap" width="40" height="40"/></a>
