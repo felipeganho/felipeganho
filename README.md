@@ -44,7 +44,7 @@ Here are some of the programming languages and technologies I'm familiar with:
 
 ## Let's Create Something Amazing! 💫
 
-💬 I am always open to new ideas and partnerships. Contact me to discuss how we can create something truly extraordinary together. ✉️
+💬 I am always open to new ideas and partnerships. Contact me to discuss how we can create something truly extraordinary together.
 
  ## <b>Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
  <a href="https://www.linkedin.com/in/felipeganho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
