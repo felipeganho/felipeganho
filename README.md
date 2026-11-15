@@ -1,51 +1,30 @@
-<h1 align="center"><b>Hi, I'm Felipe Silva Ganho</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=I'm+computer+engineer;Developer;Tech+Enthusiast"></a>
-</p>
+### Felipe Silva Ganho
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+Tech Lead e engenheiro de software. Há mais de 6 anos construo sistemas para fintech e plataformas web, com foco em back-end, dados e IA aplicada.
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+- **Hoje:** Tech Lead no Clube do Valor (wealth services, R$ 5 bilhões sob gestão). Cuido da arquitetura e da entrega de sistemas financeiros com 99,9% de disponibilidade, do CI/CD e da stack de dados (Airbyte, dbt, Data Warehouse).
+- **Em paralelo:** produtos próprios em Go e TypeScript com IA aplicada (RAG com pgvector, agentes e automação).
+- **Estudando:** pós-graduação em Inteligência Artificial e Machine Learning na PUC Minas.
 
-- :computer: I’m currently working at Clube do Valor as Software Engineer;
-- :mortar_board: I'm computer engineer by Ufes;
-- :books: I’m currently learning React and Vue for front-end, Node and Laravel for back-end and React Native for mobile applications;
-- 📄 Know about my <a href="https://drive.google.com/file/d/1EtRtEKsOMYqwzE_Dj8japRH6Vc8ysJrN/view?usp=sharing" target="blank">experiences/resume;</a>
-- Visit my <a href="https://felipeganho.github.io/" target="blank">personal portfolio.</a>
+#### Projetos
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+| Projeto | O que é | Stack |
+|---|---|---|
+| **MedStation** | SaaS em produção | Go (Clean Architecture, DDD), PostgreSQL, Redis, React, Docker, Traefik, GitHub Actions |
+| **Ganho Atende** | Atendimento via WhatsApp com IA | TypeScript (monorepo), Vitest, PostgreSQL + pgvector, Redis, LLMs |
+| **Radar de licitações** | Triagem diária de editais públicos com IA | Python, cron, LLMs |
+| **Infraestrutura como código** | Servidores em mais de um provedor de nuvem | Terraform, cloud-init, Docker Compose, Traefik |
 
-<br>
+O código desses projetos é privado. Os detalhes estão em [felipeganho.github.io](https://felipeganho.github.io/#projetos).
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+#### Stack
 
-Here are some of the programming languages and technologies I'm familiar with:
+- **Linguagens:** Go · PHP · Python · TypeScript · SQL
+- **Back-end:** Laravel · APIs REST · filas e processamento assíncrono · Clean Architecture · DDD
+- **Dados:** PostgreSQL · MySQL · Redis · dbt · Airbyte · Data Warehouse · pgvector
+- **Infraestrutura:** Docker · Docker Swarm · GitHub Actions · Terraform · Traefik · Linux
+- **IA aplicada:** LLMs · RAG · agentes (Claude Code, MCP) · n8n
 
-## 👨‍💻 Languages: 
-![My Skills](https://skillicons.dev/icons?i=php,javascript,java,python,c,go)
-![My Skills](https://skillicons.dev/icons?i=html,css,jquery)
+#### Contato
 
-## 🧰 Frameworks:
-
-#### Front-end:
-![My Skills](https://skillicons.dev/icons?i=vue,react,bootstrap)
-
-#### Back-end: 
-![My Skills](https://skillicons.dev/icons?i=laravel,nodejs)
-
-## 🗄️ Databases: 
-![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)
-
-## 🗄️ Infrastructure: 
-![My Skills](https://skillicons.dev/icons?i=docker,aws,kubernetes,linux,redis)
-
-## ⚙️ Tools:
-![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,vscode)
-
-## Let's Create Something Amazing! 💫
-
-💬 I am always open to new ideas and partnerships. Contact me to discuss how we can create something truly extraordinary together.
-
- ## <b>Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
- <a href="https://www.linkedin.com/in/felipeganho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="mailto:felipeganho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+[Site](https://felipeganho.github.io/) · [LinkedIn](https://www.linkedin.com/in/felipeganho/)
